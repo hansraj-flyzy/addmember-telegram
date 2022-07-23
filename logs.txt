@@ -1,0 +1,362 @@
+2022-07-23 14:53:59.855661	
+
+
+-------
+started filter_common_members.py
+2022-07-23 14:57:03.699324	
+
+
+-------
+started add_member.py
+2022-07-23 14:57:03.714948	root path: D:\addmember-telegram
+
+2022-07-23 14:57:03.714948	Total accounts: 1
+
+
+2022-07-23 14:57:05.130819	account #0 +919818861402 login success
+
+
+2022-07-23 14:57:05.130819	querying group details for client with phone +919818861402
+2022-07-23 14:57:05.130819	path: D:\addmember-telegram/data/group/+919818861402.json
+2022-07-23 14:57:05.130819	From index: 0
+2022-07-23 14:57:05.130819	remain client: 1
+2022-07-23 14:57:05.130819	current_index: 0
+2022-07-23 14:57:05.130819	checking if user exists in target group
+2022-07-23 14:57:05.130819	Adding member: None with uid 5188802037
+2022-07-23 14:57:05.130819	Added member None with uid 5188802037 successfully ;-)
+2022-07-23 14:57:05.130819	sleep: 120.0
+2022-07-23 15:06:31.472914	
+
+
+-------
+started filter_common_members.py
+2022-07-23 15:06:31.472914	target group: 1796529952
+2022-07-23 15:06:31.472914	source group: 1675595000
+2022-07-23 15:06:32.144788	
+
+
+-------
+started add_member.py
+2022-07-23 15:06:32.144788	root path: D:\addmember-telegram
+
+2022-07-23 15:06:32.160414	Total accounts: 1
+
+
+2022-07-23 15:06:34.073023	account #0 +919818861402 login success
+
+
+2022-07-23 15:06:34.073023	querying group details for client with phone +919818861402
+2022-07-23 15:06:34.073023	path: D:\addmember-telegram/data/group/+919818861402.json
+2022-07-23 15:06:34.135517	From index: 0
+2022-07-23 15:06:34.135517	remain client: 1
+2022-07-23 15:06:34.135517	current_index: 0
+2022-07-23 15:06:34.135517	checking if user exists in target group
+2022-07-23 15:06:34.135517	Adding member: None with uid 5188802037
+2022-07-23 15:06:34.687396	Error other
+2022-07-23 15:06:35.689537	remain client: 1
+2022-07-23 15:06:35.689537	current_index: 0
+2022-07-23 15:06:35.689537	checking if user exists in target group
+2022-07-23 15:06:35.689537	Adding member: Sureshpatel120 with uid 5004400852
+2022-07-23 15:06:36.083641	Error other
+2022-07-23 15:06:37.085255	remain client: 1
+2022-07-23 15:06:37.085255	current_index: 0
+2022-07-23 15:06:37.085255	checking if user exists in target group
+2022-07-23 15:06:37.085255	Adding member: None with uid 2052979243
+2022-07-23 15:06:37.376407	Error other
+2022-07-23 15:06:38.379537	remain client: 1
+2022-07-23 15:06:38.379537	current_index: 0
+2022-07-23 15:06:38.379537	checking if user exists in target group
+2022-07-23 15:06:38.379537	Adding member: arjit015 with uid 1810643600
+2022-07-23 15:06:38.648456	Error other
+2022-07-23 15:06:39.654635	remain client: 1
+2022-07-23 15:06:39.654635	current_index: 0
+2022-07-23 15:06:39.654635	checking if user exists in target group
+2022-07-23 15:06:39.654635	Adding member: None with uid 1775790035
+2022-07-23 15:06:39.948474	Error other
+2022-07-23 15:06:40.963907	remain client: 1
+2022-07-23 15:06:40.963907	current_index: 0
+2022-07-23 15:06:40.963907	checking if user exists in target group
+2022-07-23 15:06:40.963907	Adding member: None with uid 1477226253
+2022-07-23 15:06:41.268641	Error other
+2022-07-23 15:06:42.271838	remain client: 1
+2022-07-23 15:06:42.271838	current_index: 0
+2022-07-23 15:06:42.271838	checking if user exists in target group
+2022-07-23 15:06:42.271838	Adding member: None with uid 1091366323
+2022-07-23 15:06:42.572003	Error other
+2022-07-23 15:06:43.575113	remain client: 1
+2022-07-23 15:06:43.575113	current_index: 0
+2022-07-23 15:06:43.575113	checking if user exists in target group
+2022-07-23 15:06:43.575113	Adding member: None with uid 1043893406
+2022-07-23 15:06:43.859928	Error other
+2022-07-23 15:06:44.863040	remain client: 1
+2022-07-23 15:06:44.863040	current_index: 0
+2022-07-23 15:06:44.863040	checking if user exists in target group
+2022-07-23 15:06:44.863040	Adding member: Bhawna485 with uid 1028225392
+2022-07-23 15:06:45.163933	Error other
+2022-07-23 15:06:46.177004	remain client: 1
+2022-07-23 15:06:46.177004	current_index: 0
+2022-07-23 15:06:46.177004	checking if user exists in target group
+2022-07-23 15:06:46.177004	Adding member: None with uid 729368453
+2022-07-23 15:06:46.492659	Error other
+2022-07-23 15:06:47.497237	disconnecting
+2022-07-23 15:06:47.508255	total: 0
+2022-07-23 15:06:47.509239	total time: 0:00:15.361486
+2022-07-23 15:24:37.402856	
+
+
+-------
+started filter_common_members.py
+2022-07-23 15:24:37.405856	target group: 1796529952
+2022-07-23 15:24:37.407856	source group: 1675595000
+2022-07-23 15:24:37.414854	This account with phone +919818861402 is not in target group
+2022-07-23 15:24:38.088852	
+
+
+-------
+started add_member.py
+2022-07-23 15:24:38.092854	root path: D:\addmember-telegram
+
+2022-07-23 15:24:38.115854	Total accounts: 1
+
+
+2022-07-23 15:24:39.377868	account #0 +919818861402 login success
+
+
+2022-07-23 15:24:39.378852	querying group details for client with phone +919818861402
+2022-07-23 15:24:39.379852	path: D:\addmember-telegram/data/group/+919818861402.json
+2022-07-23 15:24:39.609848	This account with phone +919818861402 is not in target group
+2022-07-23 15:24:39.611851	From index: 0
+2022-07-23 15:25:16.873504	
+
+
+-------
+started filter_common_members.py
+2022-07-23 15:25:16.874504	target group: 1538491186
+2022-07-23 15:25:16.874504	source group: 1675595000
+2022-07-23 15:25:17.497503	
+
+
+-------
+started add_member.py
+2022-07-23 15:25:17.498504	root path: D:\addmember-telegram
+
+2022-07-23 15:25:17.499503	Total accounts: 1
+
+
+2022-07-23 15:25:18.177501	account #0 +919818861402 login success
+
+
+2022-07-23 15:25:18.178499	querying group details for client with phone +919818861402
+2022-07-23 15:25:18.179501	path: D:\addmember-telegram/data/group/+919818861402.json
+2022-07-23 15:25:18.223501	From index: 0
+2022-07-23 15:25:18.224502	remain client: 1
+2022-07-23 15:25:18.225503	current_index: 0
+2022-07-23 15:25:18.225503	checking if user exists in target group
+2022-07-23 15:25:18.226507	Adding member: None with uid 5249215398
+2022-07-23 15:25:18.421505	Added member None with uid 5249215398 successfully ;-)
+2022-07-23 15:25:18.440504	sleep: 120.0
+2022-07-23 15:27:18.440164	
+
+
+
+2022-07-23 15:27:18.444180	remain client: 1
+2022-07-23 15:27:18.445179	current_index: 0
+2022-07-23 15:27:18.447180	checking if user exists in target group
+2022-07-23 15:27:18.448181	Adding member: None with uid 5188802037
+2022-07-23 15:27:18.634183	remove client: +919818861402
+2022-07-23 15:27:18.636214	Error Fooling cmnr - PeerFloodError
+2022-07-23 15:27:18.653177	remain client: 0
+2022-07-23 15:27:18.655178	END: accounts is empty
+2022-07-23 15:27:18.657178	disconnecting
+2022-07-23 15:27:18.658182	total: 1
+2022-07-23 15:27:18.671178	total time: 0:02:01.162674
+2022-07-23 15:35:27.292315	
+
+
+-------
+started filter_common_members.py
+2022-07-23 15:35:27.296315	target group: 1538491186
+2022-07-23 15:35:27.297318	source group: 1675595000
+2022-07-23 15:36:03.492108	
+
+
+-------
+started add_member.py
+2022-07-23 15:36:03.492108	root path: D:\addmember-telegram
+
+2022-07-23 15:36:03.492108	Total accounts: 1
+
+
+2022-07-23 15:36:05.490137	account #0 +917357679109 login success
+
+
+2022-07-23 15:36:05.490137	querying group details for client with phone +917357679109
+2022-07-23 15:36:05.490137	path: D:\addmember-telegram/data/group/+917357679109.json
+2022-07-23 15:36:05.490137	From index: 1
+2022-07-23 15:36:05.490137	remain client: 1
+2022-07-23 15:36:05.490137	current_index: 0
+2022-07-23 15:36:05.490137	checking if user exists in target group
+2022-07-23 15:36:05.490137	Adding member: Sureshpatel120 with uid 5004400852
+2022-07-23 15:36:06.148709	Added member Sureshpatel120 with uid 5004400852 successfully ;-)
+2022-07-23 15:36:06.150712	sleep: 120.0
+2022-07-23 15:38:06.150718	
+
+
+
+2022-07-23 15:38:06.154709	remain client: 1
+2022-07-23 15:38:06.155710	current_index: 0
+2022-07-23 15:38:06.156714	checking if user exists in target group
+2022-07-23 15:38:06.157710	Adding member: None with uid 2052979243
+2022-07-23 15:38:06.851706	Added member None with uid 2052979243 successfully ;-)
+2022-07-23 15:38:06.852708	sleep: 120.0
+2022-07-23 15:40:06.853719	
+
+
+
+2022-07-23 15:40:06.853719	remain client: 1
+2022-07-23 15:40:06.853719	current_index: 0
+2022-07-23 15:40:06.853719	checking if user exists in target group
+2022-07-23 15:40:06.853719	Adding member: None with uid 1775790035
+2022-07-23 15:40:07.505293	Added member None with uid 1775790035 successfully ;-)
+2022-07-23 15:40:07.530236	sleep: 120.0
+2022-07-23 15:42:07.540692	
+
+
+
+2022-07-23 15:42:07.540692	remain client: 1
+2022-07-23 15:42:07.540692	current_index: 0
+2022-07-23 15:42:07.540692	checking if user exists in target group
+2022-07-23 15:42:07.540692	Adding member: None with uid 1477226253
+2022-07-23 15:42:08.146000	Added member None with uid 1477226253 successfully ;-)
+2022-07-23 15:42:08.165999	sleep: 120.0
+2022-07-23 15:45:07.363162	
+
+
+-------
+started filter_common_members.py
+2022-07-23 15:45:07.363162	target group: 1538491186
+2022-07-23 15:45:07.363162	source group: 1675595000
+2022-07-23 15:45:07.963120	
+
+
+-------
+started add_member.py
+2022-07-23 15:45:07.963120	root path: D:\addmember-telegram
+
+2022-07-23 15:45:07.963120	Total accounts: 1
+
+
+2022-07-23 15:45:08.962783	account #0 +917357679109 login success
+
+
+2022-07-23 15:45:08.962783	querying group details for client with phone +917357679109
+2022-07-23 15:45:08.962783	path: D:\addmember-telegram/data/group/+917357679109.json
+2022-07-23 15:45:09.035518	From index: 4
+2022-07-23 15:45:09.035518	remain client: 1
+2022-07-23 15:45:09.035518	current_index: 0
+2022-07-23 15:45:09.035518	checking if user exists in target group
+2022-07-23 15:45:09.035518	Adding member: None with uid 729368453
+2022-07-23 15:45:09.323876	Added member None with uid 729368453 successfully ;-)
+2022-07-23 15:45:09.323876	sleep: 120.0
+2022-07-23 15:47:09.330236	
+
+
+
+2022-07-23 15:47:09.330236	disconnecting
+2022-07-23 15:47:09.345838	total: 1
+2022-07-23 15:47:09.345838	total time: 0:02:01.382737
+2022-07-23 15:55:15.034618	
+
+
+-------
+started filter_common_members.py
+2022-07-23 15:55:15.037614	target group: 1538491186
+2022-07-23 15:55:15.038616	source group: 1675595000
+2022-07-23 15:57:25.115934	
+
+
+-------
+started add_member.py
+2022-07-23 15:57:25.119931	root path: D:\addmember-telegram
+
+2022-07-23 15:57:25.121932	Total accounts: 1
+
+
+2022-07-23 15:57:28.061913	account #0 +917357679109 login success
+
+
+2022-07-23 15:57:28.063911	querying group details for client with phone +917357679109
+2022-07-23 15:57:28.064914	path: D:\addmember-telegram/data/group/+917357679109.json
+2022-07-23 15:57:28.068913	From index: 5
+2022-07-23 15:57:28.069912	disconnecting
+2022-07-23 15:57:28.071910	total: 0
+2022-07-23 15:57:28.073913	total time: 0:00:02.956979
+2022-07-23 15:57:47.620797	
+
+
+-------
+started add_member.py
+2022-07-23 15:57:47.621796	root path: D:\addmember-telegram
+
+2022-07-23 15:57:47.623797	Total accounts: 1
+
+
+2022-07-23 15:57:49.170784	account #0 +917357679109 login success
+
+
+2022-07-23 15:57:49.172787	querying group details for client with phone +917357679109
+2022-07-23 15:57:49.173786	path: D:\addmember-telegram/data/group/+917357679109.json
+2022-07-23 15:57:49.174787	From index: 0
+2022-07-23 15:57:49.175787	remain client: 1
+2022-07-23 15:57:49.176789	current_index: 0
+2022-07-23 15:57:49.177788	checking if user exists in target group
+2022-07-23 15:57:49.178787	Adding member: None with uid 5536376786
+2022-07-23 15:57:49.683781	Added member None with uid 5536376786 successfully ;-)
+2022-07-23 15:57:49.684783	sleep: 120.0
+2022-07-23 15:59:49.684517	
+
+
+
+2022-07-23 15:59:49.690527	remain client: 1
+2022-07-23 15:59:49.691526	current_index: 0
+2022-07-23 15:59:49.983523	checking if user exists in target group
+2022-07-23 15:59:50.111524	Adding member: None with uid 5188802037
+2022-07-23 15:59:50.850522	Added member None with uid 5188802037 successfully ;-)
+2022-07-23 15:59:50.851522	sleep: 120.0
+2022-07-23 16:01:50.852506	
+
+
+
+2022-07-23 16:01:50.855481	remain client: 1
+2022-07-23 16:01:50.856482	current_index: 0
+2022-07-23 16:01:50.857482	checking if user exists in target group
+2022-07-23 16:01:50.858494	Adding member: None with uid 1091366323
+2022-07-23 16:01:51.351477	Added member None with uid 1091366323 successfully ;-)
+2022-07-23 16:01:51.352475	sleep: 120.0
+2022-07-23 16:03:51.354293	
+
+
+
+2022-07-23 16:03:51.357284	remain client: 1
+2022-07-23 16:03:51.358284	current_index: 0
+2022-07-23 16:03:51.359284	checking if user exists in target group
+2022-07-23 16:03:51.360284	Adding member: None with uid 1043893406
+2022-07-23 16:03:51.932281	Added member None with uid 1043893406 successfully ;-)
+2022-07-23 16:03:51.933282	sleep: 120.0
+2022-07-23 16:05:51.934258	
+
+
+
+2022-07-23 16:05:51.938275	remain client: 1
+2022-07-23 16:05:51.939274	current_index: 0
+2022-07-23 16:05:51.940272	checking if user exists in target group
+2022-07-23 16:05:51.940272	Adding member: Bhawna485 with uid 1028225392
+2022-07-23 16:05:52.728272	Added member Bhawna485 with uid 1028225392 successfully ;-)
+2022-07-23 16:05:52.729270	sleep: 120.0
+2022-07-23 16:07:52.730064	
+
+
+
+2022-07-23 16:07:52.733056	disconnecting
+2022-07-23 16:07:53.314053	total: 5
+2022-07-23 16:07:53.360065	total time: 0:10:05.541248
