@@ -10,7 +10,7 @@ import datetime
 import os
 import json
 
-
+# group object from groups array and id
 def get_group_by_id(groups, group_id):
 	for group in groups:
 		if (group_id == int(group['group_id'])):
@@ -27,13 +27,14 @@ logging.basicConfig(level=logging.WARNING)
 with open('config.json', 'r', encoding='utf-8') as f:
 	config = json.loads(f.read())
 
+# array with accounts[{phone, api_id, api_hash}]
 accounts = config['accounts']
 print("Total accounts: " + str(len(accounts))+'\n\n')
 folder_session = 'session/'
 
-# group target
+# group target id
 group_target_id = config['group_target']
-# group source
+# group source id
 group_source_id = config['group_source']
 #date_online_from
 from_date_active = '19700101'
@@ -42,7 +43,7 @@ if 'from_date_active' in config:
 
 # list client
 clients = []
-for account in accounts:
+for index, account in enumerate(accounts):
 	api_id = account['api_id']
 	api_hash = account['api_hash']
 	phone = account['phone']
@@ -52,25 +53,29 @@ for account in accounts:
 	client.connect()
 
 	if client.is_user_authorized():
-		print(phone + ' login success')
+		print('account #'+str(index)+' '+phone + ' login success\n\n')
 		clients.append({
 			'phone': phone,
 			'client': client
 		})
 	else:
-		print(phone + ' login fail')
+		print('account #'+str(index)+' '+phone + ' login failed\n\n')
 
 filter_clients = []
 
 for my_client in clients:
 	phone = my_client['phone']
 	path_group = root_path + '/data/group/' + phone + '.json'
+	print('querying group details for client with phone '+phone)
+	print('path: '+path_group)
 	if os.path.isfile(path_group):
 
 		with open(path_group, 'r', encoding='utf-8') as f:
 			groups = json.loads(f.read())
 
 		current_target_group = get_group_by_id(groups, group_target_id)
+		print('current target group obj ')
+		print(current_target_group)
 
 		if current_target_group:
 			group_access_hash = int(current_target_group['access_hash'])
@@ -146,7 +151,7 @@ while i < total_user:
 		print('checking if user exists in target group')
 		print('Adding member: ' + user['username'] + ' with uid '+user['user_id'])
 		user_to_add = InputPeerUser(int(user['user_id']), int(user['access_hash']))
-		client(InviteToChannelRequest(target_group_entity, [user_to_add]))
+		# client(InviteToChannelRequest(target_group_entity, [user_to_add]))
 		msg = 'Added member '+ user['username'] + ' with uid '+user['user_id'] +' successfully ;-)'
 		now = datetime.datetime.now()
 		print(msg)
@@ -156,7 +161,7 @@ while i < total_user:
 		file1.close()
 		count_add += 1
 		print('sleep: ' + str(120 / total_client))
-		time.sleep(120 / total_client)
+		# time.sleep(120 / total_client)
 
 	except PeerFloodError as e:
 		print("Error Fooling cmnr")
@@ -176,11 +181,11 @@ while i < total_user:
 		print("remove client: " + current_client['phone'])
 		client.disconnect()
 		filter_clients.remove(current_client)
-		time.sleep(2)
+		# time.sleep(2)
 		continue
 	except:
 		print("Error other")
-		time.sleep(2)
+		# time.sleep(2)
 	# break
 
 	i += 1
