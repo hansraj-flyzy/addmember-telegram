@@ -1,8 +1,7 @@
-session/+84*
-data/group/+84*
-data/user/+84*
+session/+91*
+data/group/+91*
+data/user/+91*
 phone.txt
 current_count.txt
 errors.txt
-config.json
 .idea
